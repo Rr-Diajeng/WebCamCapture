@@ -1,0 +1,17 @@
+D:\Diajeng\Programming\pbkk\WebCam\WebCam\bin\Debug\WebCam.exe.config
+D:\Diajeng\Programming\pbkk\WebCam\WebCam\bin\Debug\WebCam.exe
+D:\Diajeng\Programming\pbkk\WebCam\WebCam\bin\Debug\WebCam.pdb
+D:\Diajeng\Programming\pbkk\WebCam\WebCam\bin\Debug\AForge.dll
+D:\Diajeng\Programming\pbkk\WebCam\WebCam\bin\Debug\AForge.Video.DirectShow.dll
+D:\Diajeng\Programming\pbkk\WebCam\WebCam\bin\Debug\AForge.Video.dll
+D:\Diajeng\Programming\pbkk\WebCam\WebCam\bin\Debug\AForge.xml
+D:\Diajeng\Programming\pbkk\WebCam\WebCam\bin\Debug\AForge.Video.xml
+D:\Diajeng\Programming\pbkk\WebCam\WebCam\bin\Debug\AForge.Video.DirectShow.xml
+D:\Diajeng\Programming\pbkk\WebCam\WebCam\obj\Debug\WebCam.csproj.AssemblyReference.cache
+D:\Diajeng\Programming\pbkk\WebCam\WebCam\obj\Debug\WebCam.Form1.resources
+D:\Diajeng\Programming\pbkk\WebCam\WebCam\obj\Debug\WebCam.Properties.Resources.resources
+D:\Diajeng\Programming\pbkk\WebCam\WebCam\obj\Debug\WebCam.csproj.GenerateResource.cache
+D:\Diajeng\Programming\pbkk\WebCam\WebCam\obj\Debug\WebCam.csproj.CoreCompileInputs.cache
+D:\Diajeng\Programming\pbkk\WebCam\WebCam\obj\Debug\WebCam.csproj.CopyComplete
+D:\Diajeng\Programming\pbkk\WebCam\WebCam\obj\Debug\WebCam.exe
+D:\Diajeng\Programming\pbkk\WebCam\WebCam\obj\Debug\WebCam.pdb
